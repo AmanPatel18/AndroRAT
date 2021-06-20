@@ -1,5 +1,8 @@
 # AndroRAT
 -----------------------------------------------------------------------
+First of all extract all files in your computer. 
+All the files will be extracted as one single folder.
+-----------------------------------------------------------------------
 These following commands are only applicable in python version >=3.9
 -----------------------------------------------------------------------
 1. Open terminal in the same directory and run the following command.
